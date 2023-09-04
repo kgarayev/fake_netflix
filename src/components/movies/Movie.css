@@ -1,0 +1,14 @@
+.movieContainer {
+  padding: 25px;
+  background-color: darkgray;
+  border-radius: 10px;
+  color: white;
+}
+
+.starContainer {
+  width: 25px;
+}
+
+.star {
+  fill: grey;
+}

@@ -1,0 +1,8 @@
+.navLinkContainer {
+  display: flex;
+}
+
+.navLinkContainer p {
+  padding-right: 10px;
+  font-size: 30px;
+}
