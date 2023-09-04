@@ -10,7 +10,7 @@ class App extends Component {
       `https://api.themoviedb.org/3/genre/movie/list?language=en`,
       {
         headers: {
-          Authorization: `Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4MGQ2YjFmOGE4ZmM2ZGJmOGU0YWY0M2U3MzBhNDY2MSIsInN1YiI6IjY0Nzc4OGJhOTM4MjhlMDBiZjljOTkwNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.5PaH_RToi9pI0GJ_K_BtR3PlwJiScoFClmEfUqXuUzo`,
+          Authorization: `Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkMDljOWY5NGU3ODVhZjZmZjAyNGU1ZmIwMDk4ZWNiZCIsInN1YiI6IjY0ZjY1ZTc1YjIzNGI5MDEzYTRhNmJhNCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.iaUEjaSLtyN02HQ3ZCE8zH8qkj4maY4_fZKnh2n0nUM`,
         },
       }
     );
